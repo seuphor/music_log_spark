@@ -1,2 +1,4 @@
-/dateset
+/dataset
 /metastore_db
+.DS_Store
+.ipynb_checkpoints
